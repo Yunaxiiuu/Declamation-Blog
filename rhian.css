@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+    background-color: #A484B9; /* Light Purple */
+    color: #460076; /* Dark Purple */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 2rem;
+    background: #894EAD; /* Medium Purple */
+    color: white;
+}
+
+/* Main Sections */
+section {
+    background: #d1b3ff; /* Soft Purple */
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Heading Styles */
+h1, h2 {
+    color: #6a1b9a; /* Deep Purple */
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #6a1b9a; /* Deep Purple */
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Video Section */
+video {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
